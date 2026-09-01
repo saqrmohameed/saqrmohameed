@@ -17,7 +17,7 @@
          alt="Instagram" width="45" height="45"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="saqrmohamedaldhan@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
          alt="Email" width="45" height="45"/>
   </a>
