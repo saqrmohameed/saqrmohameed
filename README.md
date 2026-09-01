@@ -5,7 +5,34 @@
 🇾🇪 Based in Yemen
 🚀 Always learning and improving my development skills
 🤝 Connect with Me
-<p align="center"> <a href="YOUR_FACEBOOK_LINK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp; <a href="YOUR_INSTAGRAM_LINK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp; <a href="YOUR_TELEGRAM_LINK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp; <a href="YOUR_LINKEDIN_LINK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/> </a> </p>
+
+<p align="center">
+  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         alt="Facebook" width="45" height="45"/> 
+  </a>
+  
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         alt="Instagram" width="45" height="45"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         alt="Email" width="45" height="45"/>
+  </a>
+
+  <a href="YOUR_TELEGRAM_LINK" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+         alt="Telegram" width="45" height="45"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="45" height="45"/>
+  </a>
+</p>
+
 💻 Programming Languages
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/> </a> &nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/> </a> &nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> </a> &nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/> </a> &nbsp; <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="55" height="55"/> </a> </p>
 🌐 Web Development
