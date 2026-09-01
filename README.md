@@ -4,8 +4,8 @@
 💬 I work in front-end and back-end development
 🇾🇪 Based in Yemen
 🚀 Always learning and improving my development skills
-🤝 Connect with Me
 
+**🤝 Connect with Me**
 <p align="center">
   <a href="YOUR_FACEBOOK_LINK" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
@@ -33,15 +33,15 @@
   </a>
 </p>
 
-💻 Programming Languages
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/> </a> &nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/> </a> &nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> </a> &nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/> </a> &nbsp; <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="55" height="55"/> </a> </p>
-🌐 Web Development
+**💻 Programming Languages**
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/> </a> &nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/> </a> &nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> </a> &nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/> </a> &nbsp;  </a> </p>
+**🌐 Web Development**
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/> </a> &nbsp; <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> </a> </p>
-📱 Mobile Development
+**📱 Mobile Development**
 <p align="center"> <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/> </a> &nbsp; <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="55" height="55"/> </a> </p>
-🗄️ Databases
+**🗄️ Databases**
 <p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/> </a> &nbsp; <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="55" height="55"/> </a> </p>
-☕ Support Me
+**☕ Support Me**
 <p align="center"> <a href="https://www.buymeacoffee.com/saqrmohameed"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/> </a> </p>
-📊 GitHub Stats
+**📊 GitHub Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqrmohameed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saqrmohameed&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqrmohameed&theme=tokyonight" alt="GitHub Streak"/> </p>
