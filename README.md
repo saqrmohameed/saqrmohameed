@@ -7,17 +7,17 @@
 
 **🤝 Connect with Me**
 <p align="center">
-  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+  <a href="https://www.facebook.com/share/1DgtC6FB6w/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
          alt="Facebook" width="45" height="45"/> 
   </a>
   
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+  <a href="Saqer__Aldahan" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F"
          alt="Instagram" width="45" height="45"/>
   </a>
 
-  <a href="saqrmohamedaldhan@gmail.com">
+  <a href="saqeraldahan89@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
          alt="Email" width="45" height="45"/>
   </a>
