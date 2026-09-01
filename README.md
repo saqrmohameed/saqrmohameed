@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqrmohameed" alt="saqrmohameed" /></a> </p>
 
-- 🌱 I’m currently learning **dart,flutter**
+- 🌱 Beginner in building **applications using Dart and Flutter**
 
-- 💬 Ask me about **frontend,backend**
+- 💬 I work in **front-end and back-end development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
