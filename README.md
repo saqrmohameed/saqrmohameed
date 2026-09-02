@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saqr Mohamed</h1> <h3 align="center">A passionate frontend developer from Yemen 🇾🇪</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqrmohameed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=saqrmohameed&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Saqr+Mohamed;Websites+and+Applications+Developer+%F0%9F%92%BB" alt="Typing Animation" />
+</p>
+ <h3 align="center">A passionate frontend developer from Yemen 🇾🇪</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqrmohameed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=saqrmohameed&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/> </a> </p>
 👨‍💻 About Me<br>
 🌱 Beginner in building applications using Dart and Flutter<br>
 💬 I work in front-end and back-end development<br>
