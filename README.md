@@ -27,7 +27,7 @@
          alt="Telegram" width="45" height="45"/>
   </a>
 
-  <a href="in/saqr-mohamed-654823431" target="_blank">
+  <a href="https://www.linkedin.com/in/saqr-mohamed-654823431" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="45" height="45"/>
   </a>
