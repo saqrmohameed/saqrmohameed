@@ -22,7 +22,7 @@
          alt="Email" width="45" height="45"/>
   </a>
 
-  <a href="YOUR_TELEGRAM_LINK" target="_blank">
+  <a href="https://t.me/Saqr47Saqo" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4"
          alt="Telegram" width="45" height="45"/>
   </a>
