@@ -18,7 +18,7 @@
   </a>
 
   <a href="mailto:saqeraldahan89@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
          alt="Email" width="45" height="45"/>
   </a>
 
@@ -32,6 +32,7 @@
          alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
+
 
 **💻 Programming Languages**
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/> </a> &nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/> </a> &nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> </a> &nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55"/> </a> &nbsp;  </a> </p>
